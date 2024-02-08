@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reusme.git/static/css/main.f855e6bc.css",
+    "main.js": "/reusme.git/static/js/main.2a196509.js",
+    "static/js/592.451cf9ed.chunk.js": "/reusme.git/static/js/592.451cf9ed.chunk.js",
+    "static/media/logo.svg": "/reusme.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reusme.git/index.html",
+    "main.f855e6bc.css.map": "/reusme.git/static/css/main.f855e6bc.css.map",
+    "main.2a196509.js.map": "/reusme.git/static/js/main.2a196509.js.map",
+    "592.451cf9ed.chunk.js.map": "/reusme.git/static/js/592.451cf9ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2a196509.js"
+  ]
+}
